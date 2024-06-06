@@ -1,11 +1,11 @@
-# motiondetector.pp
+# immobilitydetector.pp
 
 ![This is an image](ic_launcher.png)
 
 Last Updated: 05/06/2024
 
 # Privacy Policy for Mobile Application
-This privacy policy governs your use of the software application Motion Detector for mobile devices that was developed by Mobile Toys & Tools. The application detects objects in motion by using the camera on your device. The application raises alarm and plots it on the screen optionally if there is a motion detected. 
+This privacy policy governs your use of the software application Immobility Detector for mobile devices that was developed by Mobile Toys & Tools. The application detects objects in motion by using the camera on your device. The application raises alarm and plots it on the screen optionally if there is environmental immobility detected for a specified time period.
 
 # What information does the Application obtain and how is it used?
 ##Contact Information
